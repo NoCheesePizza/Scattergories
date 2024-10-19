@@ -4,7 +4,6 @@
 #include "stdafx.h"
 #include "main.h"
 #include "network.h"
-#include "loader.h"
 #include "utility.h"
 
 /*! ------ Notes ------ */
