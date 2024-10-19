@@ -23,7 +23,7 @@ namespace itf
 	};
 
 	int	rand_q_count = 12,
-		duration = 30,
+		duration = 120,
 		is_shown = 1, // 1 == show, 2 == hide
 		prev_q = 0, // previously highlighted question
 		prev_a = 0; // previously highlighted answer
